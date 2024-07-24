@@ -1,0 +1,11 @@
+Start up procedure:
+-Plug in the power supply and screen (should be combined onto one extension cord that can be plugged in)
+-The raspberry pi computer will automatically start up
+-Ensure the bluetooth controller is charged and turn it on.
+-Navigate to documents (click the folder icon on the taskbar) and then enter documents
+-Double click start_program.sh an dialog box will pop up, click execute and this should start the powerpoint
+-Take the turn of the knob in order to switch through the slides
+
+Power down procedure:
+-Press the x in the upper right corner and turn the knob one position to close
+-Click the raspberry in the lower left corner and press shutdown, then shutdown on the dialo
