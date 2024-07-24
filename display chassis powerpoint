@@ -9,4 +9,4 @@ Start up procedure:
 Power down procedure:
 -Press the x in the upper right corner and turn the knob one position to close
 -Click the raspberry in the lower left corner and press shutdown, then shutdown on the dialog box
--After 30 seconds, unplug the screen and control box. 
+-After 30 seconds, unplug the screen and control box. If you do not do this, you will need to power cycle before next startup. 
